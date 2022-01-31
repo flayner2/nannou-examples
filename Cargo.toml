@@ -15,3 +15,7 @@ path = "basic_app/basic_app.rs"
 [[example]]
 name = "draw_sketch"
 path = "draw_sketch/draw_sketch.rs"
+
+[[example]]
+name = "draw_2d"
+path = "draw_2d/draw_2d.rs"
