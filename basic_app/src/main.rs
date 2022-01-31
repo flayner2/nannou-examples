@@ -18,4 +18,6 @@ fn model(_app: &App) -> Model {
 // Runs every time an app event happens (e.g. key and mouse presses)
 fn event(_app: &App, _model: &mut Model, _event: Event) {}
 
+// Presents the state of the model to the window by drawing to its Frame and returning the same
+// frame at the end. Basically`draw()`
 fn view(_app: &App, _model: &Model, _frame: Frame) {}
