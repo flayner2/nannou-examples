@@ -19,3 +19,7 @@ path = "draw_sketch/draw_sketch.rs"
 [[example]]
 name = "draw_2d"
 path = "draw_2d/draw_2d.rs"
+
+[[example]]
+name = "circle_animation"
+path = "circle_animation/circle_animation.rs"
